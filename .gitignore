@@ -1,0 +1,12 @@
+.gradle/
+build/
+wue/
+.idea/
+*.iml
+.vscode/
+out/
+bin/
+hs_err_pid*
+.DS_Store
+saves/
+assets/
